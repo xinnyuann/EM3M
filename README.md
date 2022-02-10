@@ -10,6 +10,8 @@ Python implementation of the Expectation-Maximization on Mixture of Markov Model
 2. [Learning Mixture of Markov Models with EM](https://bariskurt.com/learning-markov-mixtures-with-em-derivationmatlab-code/)
 3. [Discovering Customer Journey Maps using a Mixture of Markov Models](https://www.researchgate.net/publication/321332396_Discovering_Customer_Journey_Maps_using_a_Mixture_of_Markov_Models)
 4. [HMM PySpark Implementation: A Zalando Hack Week Project](https://engineering.zalando.com/posts/2017/03/hmm-pyspark-implementation-a-zalando-hack-week-project.html)
+5. [Machine Learning —Expectation-Maximization Algorithm (EM)](https://jonathan-hui.medium.com/machine-learning-expectation-maximization-algorithm-em-2e954cb76959)
+6. [Implement Expectation-Maximization Algorithm(EM) in Python from Scratch](https://towardsdatascience.com/implement-expectation-maximization-em-algorithm-in-python-from-scratch-f1278d1b9137)
 
 ### Next Steps
 - Spark Implementation of EM3M
