@@ -15,3 +15,5 @@ Python implementation of the Expectation-Maximization on Mixture of Markov Model
 
 ### Next Steps
 - Spark Implementation of EM3M
+- Cutomer Journey Next Step - LSTM
+- Attention Models
